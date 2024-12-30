@@ -39,15 +39,15 @@ Here are some ideas to get you started:
   - Decision Trees, Ensemble Methods  
   - Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)  
   - Generative Adversarial Networks (GANs)  
-- **Frameworks**: PyTorch, TensorFlow, Keras  
+- **Frameworks**: PyTorch, TensorFlow, Keras, scikit-learn (sklearn)  
 - **Applications**: High-Performance Machine Learning, Natural Language Processing (NLP), Computer Vision  
 - **Large Language Models (LLMs)**: Fine-tuning and deployment  
 
 ## Big Data & Cloud Computing
-- **Big Data Tools**: PySpark, Apache Airflow  
+- **Big Data Tools**: PySpark,  BigQuery   
 - **Cloud Platforms**:  
   - **AWS**: Lambda, SageMaker, OpenSearch, API Gateway, CloudFormation  
-  - **Google Cloud Platform (GCP)**
+  - **Google Cloud Platform (GCP)**: BigQuery, VM Management (Compute Engine)
 
 ## Programming & Algorithms
 - **Programming Languages**: Python, C/C++, Java, JavaScript, Go/Golang  
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   - Frontend integration with scalable backend services  
 
 ## Tools & Infrastructure
-- **Containerization and Orchestration**: Docker, Kubernetes, MiniKube  
+- **Containerization and Orchestration**: Docker, Kubernetes, MiniKube,  Elastic Kubernetes Service (EKS)  
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation  
 - **Workflow Management**: Git, JUnit, Slurm  
 
