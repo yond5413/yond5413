@@ -71,8 +71,19 @@ Here are some ideas to get you started:
  <br> _Email:  yd2696@columbia.edu_
  <br> _LinkedIn:[ Yonathan Daniel](https://www.linkedin.com/in/yonathan-daniel/)_
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yond5413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yond5413&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yond5413&icon=1&color=3)](https://visitcount.itsvg.in)
+
 [![Yonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yond5413&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yqd5143)](https://leetcode.com/u/yqd5143/)
+
 
 
 
