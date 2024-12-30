@@ -79,8 +79,9 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yond5413&icon=1&color=3)](https://visitcount.itsvg.in)
-
+<!--
 [![Yonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yond5413&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yqd5143)](https://leetcode.com/u/yqd5143/)
 
