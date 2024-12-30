@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## Data Analysis & Visualization
 - **Exploratory Data Analysis**: Python, MATLAB  
 - **Data Visualization**: Matplotlib, Seaborn
+- **Data Manipulation**: Pandas
 
 ## Databases & Data Warehousing
 - **Relational Databases**: SQL, PostgreSQL  
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 ## Big Data & Cloud Computing
 - **Big Data Tools**: PySpark,  BigQuery   
 - **Cloud Platforms**:  
-  - **AWS**: Lambda, SageMaker, OpenSearch, API Gateway, CloudFormation  
+  - **AWS**: Lambda, SageMaker, OpenSearch, API Gateway, CloudFormation, S3
   - **Google Cloud Platform (GCP)**: BigQuery, VM Management (Compute Engine)
 
 ## Programming & Algorithms
