@@ -64,9 +64,6 @@ Here are some ideas to get you started:
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation  
 - **Workflow Management**: Git, JUnit, Slurm  
 
-
-- 🌱 With a distinct business sense, I'm more than excited about analyzing and providing interoperation with data itself!
-
 ### Reach Out to Me 
 📫 I’m actively looking for the 2025 **Full Time** positions in SWE/DS/DE
 ，and welcome to reach out to me through email or LinkedIn: 
