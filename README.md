@@ -20,15 +20,50 @@ Here are some ideas to get you started:
 <!--### Facts About Me -->
 
 ### What Can I Offer
-- 💬 My coursework focuses on the following topics:
-  - Probability and Statistics 
-  - Exploratory Data Analysis(Python, R)
-  - Data Visualization (R, Tableau)
-  - Database and Data Warehousing(SQL, NoSQL)
-  - Machine Learning (Linear Regression, Logistic Regression, Support Vector Machine, kNN, Decision Tree, Ensembles, RNN, CNN, etc.)
-  - Big Data (AWS, GCP, Spark, Airflow)
-  - Data Structures(Python) and Algorithm
-  - Database design and web application
+## Mathematics & Statistics
+- **Probability and Statistics**
+
+## Data Analysis & Visualization
+- **Exploratory Data Analysis**: Python, MATLAB  
+- **Data Visualization**: Matplotlib, Seaborn
+
+## Databases & Data Warehousing
+- **Relational Databases**: SQL, PostgreSQL  
+- **NoSQL Databases**: MongoDB, Elasticsearch  
+- **Database Design and Management**
+
+## Machine Learning & AI
+- **Core Concepts**:
+  - Linear Regression, Logistic Regression  
+  - Support Vector Machines (SVM), k-Nearest Neighbors (kNN)  
+  - Decision Trees, Ensemble Methods  
+  - Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)  
+  - Generative Adversarial Networks (GANs)  
+- **Frameworks**: PyTorch, TensorFlow, Keras  
+- **Applications**: High-Performance Machine Learning, Natural Language Processing (NLP), Computer Vision  
+- **Large Language Models (LLMs)**: Fine-tuning and deployment  
+
+## Big Data & Cloud Computing
+- **Big Data Tools**: PySpark, Apache Airflow  
+- **Cloud Platforms**:  
+  - **AWS**: Lambda, SageMaker, OpenSearch, API Gateway, CloudFormation  
+  - **Google Cloud Platform (GCP)**
+
+## Programming & Algorithms
+- **Programming Languages**: Python, C/C++, Java, JavaScript, Go/Golang  
+- **Data Structures and Algorithms**: Design and Optimization  
+- **Backend Development**: Flask, Django  
+
+## Web Development & Full Stack Projects
+- **Web Application Development**:  
+  - CI/CD pipelines with AWS CodePipeline  
+  - Frontend integration with scalable backend services  
+
+## Tools & Infrastructure
+- **Containerization and Orchestration**: Docker, Kubernetes, MiniKube  
+- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation  
+- **Workflow Management**: Git, JUnit, Slurm  
+
 
 - 🌱 With a distinct business sense, I'm more than excited about analyzing and providing interoperation with data itself!
 
