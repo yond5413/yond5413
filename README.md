@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <br> _LinkedIn:[ Yonathan Daniel](https://www.linkedin.com/in/yonathan-daniel/)_
 
 [![Yonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yond5413&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/yqd5143/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yqd5143)](https://leetcode.com/u/yqd5143/)
 
 
 
