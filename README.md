@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Yonathan Daniel. I've recently graduated from Columbia University in Computer Science with a concentration in Machine Learning!
+👋 Hi, I’m @Yonathan Daniel, a Master of Science in Computer Science student at Columbia University with a strong foundation in Computer Engineering from The Pennsylvania State University. As a tech enthusiast and problem solver, I leverage my expertise in machine learning, artificial intelligence, and cloud computing to develop innovative solutions that address real-world challenges. My passion lies in building scalable and efficient systems that harness the power of data and AI to drive impactful outcomes.
+
+👀 I hold a bachelor’s degree in Computer Engineering, where I graduated on the Dean’s List multiple semesters, and I’m currently pursuing advanced studies in areas like Natural Language Processing, Computer Vision, and High-Performance Machine Learning. With hands-on experience in backend and full-stack development, I’ve worked on projects ranging from AI-driven healthcare applications to autonomous robotics systems.  My goal is to continue bridging the gap between cutting-edge technology and practical applications to create solutions that make a difference.
+
+
 
 
 <!--### Facts About Me -->
