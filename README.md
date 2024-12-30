@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @yond5413. I've recently graduated from Columbia University in Computer Science with a concentration in Machine Learning!
+👋 Hi, I’m Yonathan Daniel. I've recently graduated from Columbia University in Computer Science with a concentration in Machine Learning!
 
 
 <!--### Facts About Me -->
