@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ，and welcome to reach out to me through email or LinkedIn: 
  <br> _Email:  yd2696@columbia.edu_
  <br> _LinkedIn:[ Yonathan Daniel](https://www.linkedin.com/in/yonathan-daniel/)_
-
+<br> _Portfolio: [here](https://portfolio-site-ulqk-854j08ebg-yond5413s-projects.vercel.app/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yond5413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -88,6 +88,8 @@ Here are some ideas to get you started:
 -->
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yqd5143)](https://leetcode.com/u/yqd5143/)
+
+
 
 
 
