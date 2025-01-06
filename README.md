@@ -70,8 +70,7 @@ Here are some ideas to get you started:
 - **Workflow Management**: Git, JUnit, Slurm  
 
 ### Reach Out to Me 
-📫 I’m actively looking for the 2025 **Full Time** positions in SWE/DS/DE
-，and welcome to reach out to me through email or LinkedIn: 
+📫 I’m actively looking for the 2025 **Full Time** positions in SWE/DS/DE，and welcome to reach out to me through email or LinkedIn: 
  <br> _Email:  yd2696@columbia.edu_
  <br> _LinkedIn:[ Yonathan Daniel](https://www.linkedin.com/in/yonathan-daniel/)_
 <br> Portfolio site: [here](https://portfolio-site-ulqk.vercel.app/)
